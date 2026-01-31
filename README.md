@@ -1,4 +1,4 @@
-# core-full-stack
+# primary-stack
 
 - [Full Stack Local](https://github.com/obj809/core-full-stack-local)
 
